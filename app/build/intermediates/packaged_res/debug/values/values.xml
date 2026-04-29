@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="call_button">#FF4CAF50</color>
+    <color name="dark_gray">#FF404040</color>
+    <color name="end_call_button">#FFF44336</color>
+    <color name="gray">#FF808080</color>
+    <color name="green">#FF00FF00</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#FFFF0000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="accept">Accept</string>
+    <string name="app_name">WebRTC Video Call</string>
+    <string name="call">Call</string>
+    <string name="call_ended">Call Ended</string>
+    <string name="connected">Connected</string>
+    <string name="decline">Decline</string>
+    <string name="device_name">Device Name</string>
+    <string name="devices_found">Devices Found</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="end_call">End Call</string>
+    <string name="enter_device_name">Enter Device Name</string>
+    <string name="incoming_call">Incoming Call</string>
+    <string name="mute">Mute</string>
+    <string name="no_devices_found">No devices found</string>
+    <string name="search">Search</string>
+    <string name="searching">Searching...</string>
+    <string name="start_call">Start Call</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="title_main">Video Call</string>
+    <string name="unmute">Unmute</string>
+    <string name="waiting_connection">Waiting for connection...</string>
+    <style name="Theme.WebRTCVideoCall" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WebRTC Video Call</string>
+    <string name="title_main">Video Call</string>
+    <string name="start_call">Start Call</string>
+    <string name="waiting_connection">Waiting for connection...</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="call_ended">Call Ended</string>
+    <string name="enter_device_name">Enter Device Name</string>
+    <string name="device_name">Device Name</string>
+    <string name="search">Search</string>
+    <string name="searching">Searching...</string>
+    <string name="no_devices_found">No devices found</string>
+    <string name="devices_found">Devices Found</string>
+    <string name="call">Call</string>
+    <string name="mute">Mute</string>
+    <string name="unmute">Unmute</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="end_call">End Call</string>
+    <string name="incoming_call">Incoming Call</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+</resources>
